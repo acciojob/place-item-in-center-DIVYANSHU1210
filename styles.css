@@ -4,4 +4,11 @@
 	justify-content: center;
 	align-items:center;
 }
+.item{
+	height:100px;
+	width:100px;
+	background-color:red;
+	color:white;
+	text-align: center;
+}
 /* Your CSS Code here. */
